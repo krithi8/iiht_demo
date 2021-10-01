@@ -1,0 +1,13 @@
+GIT-SD1: Assignment - 1
+
+Description:
+
+1. Start a GIT by iiht_demo in GIT bash using command and sets the author name and email address respectively to be used with your commits by git command, write command to do that.
+
+2. Add a file in repository and named project_1.text using command and show the result.
+
+3. $ git commit –a where we use this command describe and show an example.
+
+4. Command shows the file differences which are not yet staged, write the correct git command with an appropriate example.
+
+5. $ git reset project_1.text why we use this command give a correct example.
